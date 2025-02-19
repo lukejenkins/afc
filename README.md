@@ -7,6 +7,8 @@ Pull requests are welcome, but any information that you wish to add needs to be 
 
 The formatting of this repo will likely change as I have time to orginize it better, so I'd recommend you link only to the main URL.
 
+## Table
+
 For now, here is a table that I've been working on. All of the info below is either publicly sourced or is information that I've verified.
 
 |Vendor          |Model        |6 / 6E / 7|AFC?|L1                |L5 |GPS|Galileo|Glonass|Beidou|GNSS Chipset                                                                          |GNSS Antenna Gain|
